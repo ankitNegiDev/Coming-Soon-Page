@@ -42,7 +42,7 @@ function ComingSoon() {
             {/* middle content */}
             <main className="relative z-20 text-center max-w-3xl px-6">
 
-                <h1 className="text-7xl md:text-8xl font-extrabold tracking-tight mb-6 bg-linear-to-r from-white to-gray-400 bg-clip-text text-transparent">
+                <h1 className="text-7xl md:text-8xl font-extrabold tracking-tight mb-6 bg-linear-to-r from-white to-gray-400 bg-clip-text text-transparent leading-[1.3]">
                     Coming Soon
                 </h1>
 
